@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.taykey</groupId>
+  <artifactId>twitter-location-parser</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150815125140</lastUpdated>
+  </versioning>
+</metadata>
